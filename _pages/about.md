@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a fourth year graduate student of School of Computer Science in Zhejiang University and a member of NCRC (Neuromorphic Computing and Robotic Cognition Lab) Group.
+Currently I am a fourth year graduate student of School of Computer Science and Technology in Zhejiang University and a member of NCRC (Neuromorphic Computing and Robotic Cognition) Group.
 
 I received my B.Eng. degree in College of Computer Science from Sichuan University in June 2020. In the same year, I was admitted to study for a PhD degree in Zhejiang University without entrance examination.
 

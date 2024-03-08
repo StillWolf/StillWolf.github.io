@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Lang Qin's personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 Currently I am a fourth year graduate student of School of Computer Science in Zhejiang University and a member of NCRC (Neuromorphic Computing and Robotic Cognition Lab) Group.

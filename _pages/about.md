@@ -25,6 +25,7 @@ Recently, I am interested in:
 
 * Lang Qin, Rui Yan, and Huajin Tang. [A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning.](https://www.ijcai.org/proceedings/2023/0340) In: **Proceedings of the 32nd International Joint Conference on Artificial Intelligence  (IJCAI'23)**, Macao, China.
 * Lang Qin, Ziming Wang, Rui Yan, and Huajin Tang. [Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems.](https://ieeexplore.ieee.org/document/10038509) **IEEE Transactions on Neural Networks and Learning Systems (2023)**.
+* Ziming Wang, Ziling Wang, Huaning Li, Lang Qin, Runhao Jiang, De Ma, Huajin Tang. [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks.](https://arxiv.org/abs/2403.12574) **Arxiv**.
 
 ## Awards
 
